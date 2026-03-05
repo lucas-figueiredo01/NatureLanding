@@ -9,7 +9,7 @@ Exercício proposto no curso da **Origamid**, desenvolvido para praticar **Tailw
 ## Prévia
 
 Preview do NatureLanding  
-![Preview do NatureLanding](./img/preview.png)
+![Preview do NatureLanding](./img/projeto.png.png)
 
 ## Tecnologias
 
